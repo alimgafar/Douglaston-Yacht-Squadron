@@ -1,7 +1,6 @@
-# dys-site
-#Douglaston Yacht Squadron SPA
+# Douglaston Yacht Squadron SPA
 
-##Description
+## Description
 
 This application is intended to be a showcase page for the Douglaston Yacht Squadron. It will provide to the visitor a series of photographs and short videos and documentaries that will hopefully convey the experience of belonging to and participating in the fleet. The squadron page will provide some basic contact information. It's call to action should be Join the Fleet or some such notion.
 
